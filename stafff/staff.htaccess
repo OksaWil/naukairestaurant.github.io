@@ -1,0 +1,4 @@
+AuthType Basic
+AuthName  "Protected Area "
+AuthUserFile C:/OSPanel/domains/restoran/.htpasswd
+Require valid-user
